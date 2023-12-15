@@ -1,0 +1,10 @@
+.vscode
+venv
+.idea
+__pycache__
+
+*.exe
+*.out
+
+etc
+tmp
