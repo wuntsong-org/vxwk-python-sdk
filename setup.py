@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='wuntsong-vxwk',
-    version='1.0.2',
-    author='WunTsong Co,.Ltd',
+    version='1.0.4',
+    author='广州桓创信息科技有限公司',
     author_email='report@wuntsong.com',
     url='https://www.vxwk.com',
     description=u'VXWK项目的Python版本SDK',
